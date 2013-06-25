@@ -473,6 +473,6 @@ h3 {
 }
 
 .js-masonry { padding: 0; margin: 0; list-style: none; margin-top: 32px }
-.js-masonry li { width: 30%; margin-bottom: 48px; }
+.js-masonry .tile { width: 30%; margin-bottom: 48px; }
 .js-masonry .sizer { width: 30%; }
 .js-masonry .gutter { width: 5%; }
