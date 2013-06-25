@@ -1,0 +1,46 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Designer, Developer: Derk-Jan Karrenbeld
+  Site: http://derk-jan.karrenbeld.info
+  Twitter: @DerkJan_Delft
+  Tumblr: http://derk-jan.com/
+  From: Delft, The Netherlands
+  
+  Site concept: Derk-Jan Karrenbeld
+
+/* THANKS */
+  Boilerplate, less and all those tutorials about them
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Masonry.js
+  Software: DreamWeaver CS6, Photoshop CS6
+  
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:
