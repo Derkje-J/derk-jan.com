@@ -1,5 +1,5 @@
 RewriteEngine on
 
-#RewriteCond %{REQUEST_URI} !^\/(less(.*)|php(.*)|js(.*)|img(.*)|index(.*)|(.*)\.css)?$ 
-#RewriteCond %{HTTP_HOST} !^blog\.derk-jan\.com$ [NC]
-#RewriteRule ^(.*)$ http://blog.derk-jan.com/$1 [R=302,L]
+RewriteCond %{REQUEST_URI} !^\/(less(.*)|php(.*)|js(.*)|img(.*)|index(.*)|(.*)\.css)?$ 
+RewriteCond %{HTTP_HOST} !^blog\.derk-jan\.com$ [NC]
+RewriteRule ^(.*)$ http://blog.derk-jan.com/$1 [R=302,L]
