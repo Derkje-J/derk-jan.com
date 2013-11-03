@@ -1,5 +1,12 @@
 RewriteEngine on
 
-RewriteCond %{REQUEST_URI} !^\/(less(.*)|php(.*)|js(.*)|img(.*)|index(.*)|(.*)\.css)?$ 
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L] # Item exists so don't rewrite
+
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^ %{REQUEST_URI}/ [R=302,L]
+
 RewriteCond %{HTTP_HOST} !^blog\.derk-jan\.com$ [NC]
 RewriteRule ^(.*)$ http://blog.derk-jan.com/$1 [R=302,L]
